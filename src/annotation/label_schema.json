@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "classes": [
+    {
+      "id": 0,
+      "name": "happy"
+    },
+    {
+      "id": 1,
+      "name": "anxious"
+    },
+    {
+      "id": 2,
+      "name": "neutral"
+    },
+    {
+      "id": 3,
+      "name": "sad"
+    },
+    {
+      "id": 4,
+      "name": "angry"
+    }
+  ]
+}

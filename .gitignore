@@ -9,6 +9,10 @@ data/
 *.gz
 *.npy
 *.pkl
+training_reports/
+input/
+output/
+models/
 
 # ===============================
 # MODELS
@@ -16,6 +20,9 @@ data/
 models_saved/
 *.pth
 *.pt
+*.h5
+*.keras
+*.onnx
 
 # ===============================
 # PYTHON
@@ -27,6 +34,8 @@ __pycache__/
 .env
 .venv
 venv/
+emotion_env/
+env/
 
 
 
@@ -47,3 +56,10 @@ Thumbs.db
 *.log
 outputs/
 results/
+output_*.mp4
+*.mp4
+
+# ===============================
+# NOTEBOOK / TOOLING
+# ===============================
+.ipynb_checkpoints/
